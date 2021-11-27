@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "practica2_reactn",
-    "slug": "practica2_reactn",
+    "slug": "snack-efa24238-7f84-41f5-8edf-67b15dfd60dd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "APP usando la API de climas "
   }
 }
